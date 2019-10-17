@@ -1,0 +1,14 @@
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\bin\Debug\netcoreapp2.2\TableDataAPI.deps.json
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\bin\Debug\netcoreapp2.2\TableDataAPI.runtimeconfig.json
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\bin\Debug\netcoreapp2.2\TableDataAPI.runtimeconfig.dev.json
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\bin\Debug\netcoreapp2.2\TableDataAPI.dll
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\bin\Debug\netcoreapp2.2\TableDataAPI.pdb
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\obj\Debug\netcoreapp2.2\TableDataAPI.csprojAssemblyReference.cache
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\obj\Debug\netcoreapp2.2\TableDataAPI.csproj.CoreCompileInputs.cache
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\obj\Debug\netcoreapp2.2\TableDataAPI.RazorAssemblyInfo.cache
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\obj\Debug\netcoreapp2.2\TableDataAPI.RazorAssemblyInfo.cs
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\obj\Debug\netcoreapp2.2\TableDataAPI.AssemblyInfoInputs.cache
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\obj\Debug\netcoreapp2.2\TableDataAPI.AssemblyInfo.cs
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\obj\Debug\netcoreapp2.2\TableDataAPI.RazorTargetAssemblyInfo.cache
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\obj\Debug\netcoreapp2.2\TableDataAPI.dll
+D:\PoCs\webServer\TableDataAPI\TableDataAPI\obj\Debug\netcoreapp2.2\TableDataAPI.pdb
